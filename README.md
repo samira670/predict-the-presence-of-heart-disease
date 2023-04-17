@@ -1,4 +1,4 @@
-# In this project, we aim to apply data machine learning techniques to analyze a cardiovascular dataset and predict the presence of heart disease.
+ In this project, we aim to apply data machine learning techniques to analyze a cardiovascular dataset and predict the presence of heart disease.
 
 The give dataset contains 14 attributes related to heart disease. It has  5 different outputs indicating the severity of heart disease.
 Reduction algorithms are commonly used in machine learning and data analysis to reduce the dimensionality of datasets while preserving important information. Two commonly used reduction algorithms are Independent Component Analysis (ICA) and Linear Discriminant Analysis (LDA).
